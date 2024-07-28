@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Svilyear
+- 👋 Hi, I’m @Svilyear an Electronics Technician 
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning Software engineering at power learn project 
-- 💞️ I’m looking to collaborate on JavaScript framework for front and back end coding 
+- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript framework for front and back end coding 
 - 📫 How to reach me villiersteven@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: wizard
+- ⚡ Fun fact: I code for fun
 
 <!---
 Svilyear/Svilyear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
