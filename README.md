@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Svilyear an Electronics Technician 
+- 👋 Hi, I’m @Svilyear an Electronics TechWizard 
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning Software engineering at power learn project 
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript framework for front and back end coding 
